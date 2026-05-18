@@ -53,7 +53,7 @@ This is a React-based frontend for Clinic Management System using API from Sampa
 ---
 
 ## 🌐 API Base URL
-https://cmsback.sampaarsh.cloud
+https://cmsback.sampaarsh.cloud/api-docs/
 
 
 ---
